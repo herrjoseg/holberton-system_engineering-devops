@@ -1,5 +1,0 @@
-**PROJECT SCRIPT**
-This proyect work the following script:
-0-pwd......muestra la ruta actual de trabajo
-1-ls.......lista los archivos dentro del directorio actual
-3-cd ~.....mueve al directorio home del usuario.
