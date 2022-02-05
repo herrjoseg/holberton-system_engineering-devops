@@ -6,4 +6,4 @@ This proyect work the following script:
 4-ls -l  :lista todos los archivos en formato largo
 5-ls -la :lista todos los archivos incluyendo los ocultos en formato largo
 6-ls -lna : lista los archivos de la carpeta actual en formato largo, con user y group IDs numerica y los ocultos
-7-mkdir /tmp/6-firstdirectory : crea el direcrorio 6-firstdirectory en la carpeta /tmp
+7-mkdir /tmp/my_first_directory : crea el direcrorio 6-firstdirectory en la carpeta /tmp
