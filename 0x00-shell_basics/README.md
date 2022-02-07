@@ -10,3 +10,5 @@ This proyect work the following script:
 8-mv /tmp/betty /tmp/my_first_directory
 9-rm /tmp/my_first_directory/betty
 10- rm -r /tmp/my_first_directory
+11-
+12- ls . .. /boot : lista todos los archivos (incluidos los ocultos) del directorio de trabajo actual, mas lo del directorio padre mas lo del directorio /boot.
