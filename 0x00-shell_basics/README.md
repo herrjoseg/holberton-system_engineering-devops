@@ -9,3 +9,4 @@ This proyect work the following script:
 7-mkdir /tmp/my_first_directory : crea el direcrorio 6-firstdirectory en la carpeta /tmp
 8-mv /tmp/betty /tmp/my_first_directory
 9-rm /tmp/my_first_directory/betty
+10- rm -r /tmp/my_first_directory
